@@ -27,10 +27,5 @@
     },
     "suggest": {
         "ext-libsodium": "Социальный проект."
-    },
-    "scripts": {
-        "post-install-cmd": [
-            "ln -sfnr vendor/revolter-idealist/distributed-community web/texts/distributed-community"
-        ]
     } 
 }
